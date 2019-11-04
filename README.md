@@ -7,7 +7,7 @@
 
 
 ### Currently has examples of:
-
+- Factory
 
 
 
